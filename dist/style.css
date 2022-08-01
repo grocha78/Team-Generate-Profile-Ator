@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to right, #0f3443, #34e89e);
+
+}
+
+#navbar {
+    background: linear-gradient(to right, #0f3443, #34e89e);
+    color: black;
+    font-size: 50px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+}
+
+.card-header {
+    background: linear-gradient(to right, #64f38c, #f79d00);
+    color: black;
+}
+
+.card-body {
+    background: linear-gradient(to right, #64f38c, #f79d00);
+    color: black;
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+}
